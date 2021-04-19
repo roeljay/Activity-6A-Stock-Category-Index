@@ -32,8 +32,8 @@
             <div class="flex flex-col pt-6">
               <label for="stock_category_id">Stock Category ID</label>
               <select name="stock_category_id" id="stock_category_id">
-                <option value="10078">10078</option>
-                <option value="47272">47272</option>
+                <option value="10280">10280</option>
+                <option value="14069">14069</option>
               </select>
               <div class="text-red-700 text-sm">
                 {{ errors.stock_category_id }}
